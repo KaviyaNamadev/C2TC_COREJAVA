@@ -6,13 +6,13 @@ public class AssignmentMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 Manager manager = new Manager();
-	        manager.setName("Alice");
+	        manager.setName("kaviya");
 	        manager.setEmployeeId(101);
 	        manager.setSalary(80000);
 	        manager.setDepartment("IT");
 
 	        Developer developer = new Developer();
-	        developer.setName("Bob");
+	        developer.setName("kani");
 	        developer.setEmployeeId(102);
 	        developer.setSalary(60000);
 	        developer.setProgrammingLanguage("Java");
